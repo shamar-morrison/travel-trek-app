@@ -3,7 +3,7 @@ import styles from './Form.module.scss'
 
 const Form = () => {
   return (
-    <div className={styles.head}>
+    <div>
       <p>Form</p>
     </div>
   )
